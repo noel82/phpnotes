@@ -1,4 +1,4 @@
 ## PHP notes and implementations
 Language: PHP
-Frameworks: SymphonyPHP
+Frameworks: Symfony
 Libraries: PHPOffice
